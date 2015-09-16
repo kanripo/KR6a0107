@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:31:40.719979
+#+DATE: 2015-08-30 19:31:41.479278
 #+TITLE: 佛說不自守意經
 #+PROPERTY: CBETA_ID T02n0107
 #+PROPERTY: ID KR6a0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 107
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6a0107_T_000-0502b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0107_T_001-0502b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.107[No.99(277)]¶
-
- 《佛說不自守意經》¶
+No. 107 [No. 99(277)]¶
+《佛說不自守意經》¶
 ¶
 吳月支優婆塞支謙譯¶
 
@@ -25,7 +24,7 @@ No.107[No.99(277)]¶
 不自守。」比丘便叉手從佛聽。
 
 佛告比丘：「幾¶
-因緣不自守？若眼根不閉守，若眼墮色識意¶
+因緣不自守？若眼根不閉守，若眼識墮色意¶
 便泆，已意泆便更苦，已更苦便不得定意，已¶
 不得定意便不知至誠，如有已不知便不見¶
 如有，已不知已不見如有，便不捨結亦不度¶
