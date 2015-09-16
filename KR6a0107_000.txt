@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說不自守意經
+#+DATE: 2015-08-30 19:31:40.897664
+#+PROPERTY: JUAN 0
